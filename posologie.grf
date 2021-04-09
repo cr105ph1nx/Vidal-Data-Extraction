@@ -1,0 +1,44 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+24
+"<E>" 17 270 1 2 
+"" 1082 206 0 
+"<N+subst>" 90 266 2 3 8 
+"<NB>+½" 217 263 6 8 4 6 15 13 19 
+"mcg+cp+amp+flacon+mg+ml+g+%+µg+UI+\/" 315 147 5 5 13 15 19 4 
+"\:+," 411 89 4 6 19 15 20 
+"<MOT>" 586 124 2 6 18 
+"<MOT>" 722 198 1 9 
+".+,+\:" 232 162 3 3 4 15 
+"<NB>" 799 164 1 11 
+"jours" 946 91 1 1 
+"<MOT>" 804 62 2 12 11 
+"<NB>" 922 43 1 10 
+"<MOT>+<NB>+\/+," 508 343 3 16 13 22 
+"à+cpr+<NB>+-" 938 179 2 14 1 
+"<MOT>" 282 426 2 15 16 
+"matin+soir+jour+soins+constipation+midi+coucher+douleur+heures" 586 569 3 1 17 22 
+"et+,+le" 623 423 1 16 
+"voie" 701 134 1 7 
+"<MOT>+<NB>+\/" 542 229 3 19 16 17 
+"<NB>+-" 384 392 2 20 16 
+"<h>" 1031 389 3 1 14 11 
+"à" 918 320 1 23 
+"<NB>" 991 442 1 21 
